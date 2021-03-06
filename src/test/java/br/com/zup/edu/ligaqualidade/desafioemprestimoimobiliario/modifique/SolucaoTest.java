@@ -10,8 +10,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-import br.com.zup.edu.ligaqualidade.desafioemprestimoimobiliario.modifique.Solucao;
-
 public class SolucaoTest {
 	
   @ParameterizedTest
